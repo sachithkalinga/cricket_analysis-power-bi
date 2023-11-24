@@ -1,0 +1,24 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "c:\\Users\\Sachith\\anaconda3\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\Sachith\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\Sachith\\anaconda3\\envs\\Python Sample\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\Sachith\\anaconda3\\share\\jupyter\\kernels\\scilab\\kernel.json",
+            "type": "jupyterKernelspec"
+        },
+        {
+            "path": "c:\\Users\\Sachith\\anaconda3\\envs\\Test\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
